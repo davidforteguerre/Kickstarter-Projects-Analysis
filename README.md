@@ -1,2 +1,2 @@
-# Kickstarter-Projects-Analysis
-Big Data project implemented with PySpark: analyzing and predicting the success rate of online fundraising projects through machine learning (random forest, logistic regression).
+# Kickstarter_Projects_Success_Rate
+Big Data project: Predicting the Success Rate of Kickstarter Projects. PySpark, Spark SQL, and MLlib were used for the analysis.
